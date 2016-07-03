@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.homepage = 'http://totemv.com/drewkiino.github.io'
   s.framework = "UIKit"
   s.source = { :git => 'https://github.com/DrewKiino/Aurora.git', :tag => 'master' }
-  s.source_files  = "Pacific/Source/**/*.{swift}"
+  s.source_files  = "Aurora/Source/**/*.{swift}"
 
 end
